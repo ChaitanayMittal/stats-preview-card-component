@@ -33,9 +33,6 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
 
 ### Built with
 
@@ -51,4 +48,4 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor -(https://www.frontendmentor.io/profile/ChaitanayMittal)
-- Twitter - [@yourusername](https://www.twitter.com/ChaitanayMittal)
+- Twitter - [@ChaitanayMittal](https://www.twitter.com/ChaitanayMittal)
